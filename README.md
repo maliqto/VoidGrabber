@@ -1,4 +1,4 @@
-# L9 GRABBER
+# VOID GRABBER
 
 Este é um script em Python que procura e coleta tokens de autenticação de diferentes plataformas, como Discord, Google Chrome, Opera, Brave, e Yandex. Os tokens encontrados são então enviados para um webhook especificado.
 
